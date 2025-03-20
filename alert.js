@@ -1,1 +1,3 @@
-alert("JS Triggered");
+window.onload = function() {
+  alert("JS Triggered");
+};
